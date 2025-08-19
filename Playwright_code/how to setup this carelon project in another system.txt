@@ -1,0 +1,62 @@
+
+
+1st create a folder on the desktop name it as carelon project
+
+2nd copy the "patients.csv", mkc if required , main or  suneja based on the authorizations 
+		required by teams, and the python ext to install
+
+3rd install python 
+
+4th open the project folder ----- run the project in the cmd  -----
+
+5th After open the terminal 
+
+       (↓)(↓)(↓) do the below process
+    
+
+------  open cmd with terminal ---------
+
+eg:- C:\Ai project\cc project> ..
+
+install libraries one by one 
+
+-->>> check python version 1st by  adding this in cmd <<<<--
+
+>>>>>>  python --version
+
+{{{ click enter  }}}
+
+>>>>>>  pip install playwright
+
+{{{ click enter  }}}
+
+>>>>>>  playwright install chromium
+
+{{{ click enter  }}}
+
+>>>>>>  playwright install
+
+{{{ click enter  }}}
+
+>>>>>>  pip install pynput 
+
+{{{ click enter  }}}
+
+>>>>>>  pip install imapclient
+
+{{{ click enter  }}}
+
+>>>>>>  pip install pyzmail36
+
+{{{ click enter  }}}
+
+--------------  DONE ------------------
+
+
+=====  Modify the csv based on the patient details  =======
+
+
+save it in the same folder where mkc or main or suneja file is stored
+
+======  Double tap on (MKC) file to run the automatin =========
+
